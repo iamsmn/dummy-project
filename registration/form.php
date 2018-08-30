@@ -17,7 +17,7 @@
                 <div class="clr"></div>
             </div><!--/ freshdesignweb top bar -->
 			<header>
-				<h1><span>मेलमिलापकर्ताको  </span> व्यक्तिगत विवरण </h1>
+				<h1><span>this is change </span> व्यक्तिगत विवरण </h1>
       </header>  
        <div  class="form">
           <form id="contactform" action="upload.php" method="post" enctype="multipart/form-data">

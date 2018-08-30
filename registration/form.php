@@ -14,14 +14,15 @@
             <div class="freshdesignweb-top">
                     </a>
                 </span>
-                <div class="clr"></div>
+                <div class="clr">this is the test from new branch
+                </div>
             </div><!--/ freshdesignweb top bar -->
 			<header>
 				<h1><span>this is change </span> व्यक्तिगत विवरण </h1>
       </header>  
        <div  class="form">
           <form id="contactform" action="upload.php" method="post" enctype="multipart/form-data">
-                  Select image to upload: via form branch
+                  Select image to upload: via form branch  
             <input type="file" name="fileToUpload" id="fileToUpload">
             <input type="submit" value="Upload Image" name="submit">
           </form>
